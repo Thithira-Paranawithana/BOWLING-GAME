@@ -8,7 +8,7 @@ Welcome to the Console Bowling Game repository! This simple C++ project brings t
 <h3>Features:</h3>
 Console Interface: Play the game entirely through the console, providing a classic gaming experience.<br/>
 Scoring System: Implements the scoring logic of a bowling game.<br/>
-User-Friendly: Simple and intuitive controls for an easy gaming experience.<br/>
+User-Friendly: Simple and effortless controls for an easy gaming experience.<br/>
 <h3>Gameplay:</h3>
 Follow on-screen instructions to input your rolls.<br/>
 Enjoy playing the console-based bowling game!<br/><br/>
