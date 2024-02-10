@@ -1,6 +1,9 @@
 <h1>BOWLING GAME</h1>
 
 Welcome to the Console Bowling Game repository! This simple C++ project brings the classic game of bowling to the console. It is designed for educational purposes and to demonstrate fundamental principles of C++ programming.
+<p align="center">
+    <img src="https://github.com/Thithira-Paranawithana/BOWLING-GAME/assets/153026117/fa12c2cb-3064-494a-9a62-1c71216f5378" alt="Bowling Image" width="150" height="150">
+</p>
 
 <h3>Features:</h3>
 Console Interface: Play the game entirely through the console, providing a classic gaming experience.<br/>
