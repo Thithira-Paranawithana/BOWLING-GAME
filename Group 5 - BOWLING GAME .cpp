@@ -4,8 +4,6 @@ _________________GROUP 5_________________
 20/ENG/007 -	S.A.A.J.M.Athukorala
 20/ENG/113 -	R.H.A.L.S.Ranasinghe
 20/ENG/094 -	T.D.Paranawithana
-20/ENG/101 -	M.T.V.Perera
-20/ENG/050 -	B.D.J.K.Hami  
 
 */
 
